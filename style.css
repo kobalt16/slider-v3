@@ -43,13 +43,13 @@
 }
 
 .image-one {
-    background-image: url(../on0.jpg);
+    background-image: url(./on0.jpg);
 }
 .image-two {
-    background-image: url(../on2.jpg);
+    background-image: url(./on2.jpg);
 }
 .image-three {
-    background-image: url(../on3.jpg);
+    background-image: url(./on3.jpg);
 }
 .text {
     display: flex;
